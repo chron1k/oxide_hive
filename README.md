@@ -10,4 +10,3 @@ Then you can use [another script](https://github.com/SecureAuthCorp/impacket/blo
 # Credits
 - @jonasLyk, the person who discovered the vulnerability
 - @GossiTheDog, the creator of [the original exploit](https://github.com/GossiTheDog/HiveNightmare) which I took inspiration from
-- chron1k, coder of the exploit
